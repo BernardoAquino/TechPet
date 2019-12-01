@@ -1,0 +1,13 @@
+---------------------Ideias-----------------------------------
+Botão efetuado
+Após efetuar tudo, atualizar o grid e apagar as consultas/adicionar na tabela histórico
+Botão remarcar
+Após remarcar, atualiza o grid e apaga as consultas/cria outras com datas diferentes
+Botão que remove atendimentos e adiciona a tabela histórico
+Fazer nota fiscal
+
+---------------------Coisas a se fazer / Fazer na ordem-------------------------
+Olhar virgula no DGV(produtos) e caminho da imagem(Padronizar)
+Terminar Validações(Ex: Nome Descricação)
+Tirar codigo onde tem pet_codigo
+Padronizar tamanho das telas
